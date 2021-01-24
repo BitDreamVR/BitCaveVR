@@ -1,0 +1,9 @@
+D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\UE4Editor\Development\Unreal_BitcaveVR\Definitions.Unreal_BitcaveVR.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Source\Unreal_BitcaveVR/Unreal_BitcaveVRGameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\UE4Editor\Inc\Unreal_BitcaveVR\Unreal_BitcaveVRGameModeBase.generated.h

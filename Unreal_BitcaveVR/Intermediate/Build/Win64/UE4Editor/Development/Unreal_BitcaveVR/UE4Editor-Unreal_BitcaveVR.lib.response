@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Unreal_BitcaveVR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\Unreal_BitcaveVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\UE4Editor\Development\Unreal_BitcaveVR\Unreal_BitcaveVR.cpp.obj"
+"D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\UE4Editor\Development\Unreal_BitcaveVR\Unreal_BitcaveVRGameModeBase.cpp.obj"
+"D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\UE4Editor\Development\Unreal_BitcaveVR\Unreal_BitcaveVR.init.gen.cpp.obj"
+"D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\UE4Editor\Development\Unreal_BitcaveVR\Unreal_BitcaveVRGameModeBase.gen.cpp.obj"
+"D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\UE4Editor\Development\Unreal_BitcaveVR\Default.rc2.res"
+/OUT:"D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\UE4Editor\Development\Unreal_BitcaveVR\UE4Editor-Unreal_BitcaveVR.lib"
+/INCLUDE:IMPLEMENT_MODULE_Unreal_BitcaveVR

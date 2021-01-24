@@ -1,0 +1,2 @@
+D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Intermediate\Build\Win64\UE4Editor\Development\Unreal_BitcaveVR\Definitions.Unreal_BitcaveVR.h
+D:\PROYECTOS\Bitcave\BitCaveVR\Unreal_BitcaveVR\Source\Unreal_BitcaveVR\Unreal_BitcaveVR.h

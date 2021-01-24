@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\PROYECTOS\\Bitcave\\BitCaveVR\\Unreal_BitcaveVR\\Source\\Unreal_BitcaveVR\\Unreal_BitcaveVR.Build.cs",
+		"D:\\PROYECTOS\\Bitcave\\BitCaveVR\\Unreal_BitcaveVR\\Source\\Unreal_BitcaveVR.Target.cs",
+		"D:\\PROYECTOS\\Bitcave\\BitCaveVR\\Unreal_BitcaveVR\\Source\\Unreal_BitcaveVREditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

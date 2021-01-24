@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Unreal_BitcaveVR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{73EFB31B-C6E0-4155-B13B-A47D34CF18CC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal_BitcaveVR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Unreal_BitcaveVREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DBC7AC67-06C4-4121-B477-86F7BE3DB145}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Unreal_BitcaveVR">
+      <UniqueIdentifier>{D991FC01-DFD9-4C28-91D6-1467D72F2AC6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal_BitcaveVR\Unreal_BitcaveVR.Build.cs">
+      <Filter>Source\Unreal_BitcaveVR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Unreal_BitcaveVR\Unreal_BitcaveVR.cpp">
+      <Filter>Source\Unreal_BitcaveVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_BitcaveVR\Unreal_BitcaveVR.h">
+      <Filter>Source\Unreal_BitcaveVR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_BitcaveVR\Unreal_BitcaveVRGameModeBase.cpp">
+      <Filter>Source\Unreal_BitcaveVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_BitcaveVR\Unreal_BitcaveVRGameModeBase.h">
+      <Filter>Source\Unreal_BitcaveVR</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

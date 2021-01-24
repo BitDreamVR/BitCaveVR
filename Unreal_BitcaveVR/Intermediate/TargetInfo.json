@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Unreal_BitcaveVR",
+			"Path": "D:\\PROYECTOS\\Bitcave\\BitCaveVR\\Unreal_BitcaveVR\\Source\\Unreal_BitcaveVR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Unreal_BitcaveVREditor",
+			"Path": "D:\\PROYECTOS\\Bitcave\\BitCaveVR\\Unreal_BitcaveVR\\Source\\Unreal_BitcaveVREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
